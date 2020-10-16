@@ -5,7 +5,7 @@ Description:
 
 ## Data
    Source 1: https://www.kaggle.com/mariaren/covid19-healthy-diet-dataset
-   Source 2: https://data.world/csistare/alcohol-v-life-expectancy/workspace/file?filename=drinks.csv
+   <br>Source 2: https://data.world/csistare/alcohol-v-life-expectancy/workspace/file?filename=drinks.csv
 
 ## Data Cleanup & Analysis
  The extraction of from two sources as csv files. My transform process involved finding a common charactistic of the both data sets, searched for null values and converting data types, and double checking if data was ready for analysis.  Lastly, the load process was creating a database in pgAdmin with exact columns of the dataframe. 
